@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
 
 ## The changes made to the HTML code
-In this file, it was necessaryt o condense the code to make it easier read for labeling needs, and accesibility. In this case, it was necessary to move some classes together and merge similar ones together. I have also changed the title from "website" to the name of the company so it would show on the browser tab heading.
+In this file, it was necessary to condense the code to make it easier read for labeling needs, and accesibility. In this case, it was necessary to move some classes together and merge similar ones together. I have also changed the title from "website" to the name of the company so it would show on the browser tab heading.
 
 The "li" elements were merged into the "ul" elements so they would be closer together which is easier to read, and not repeating unecssary amounts of code.
 
@@ -23,5 +23,5 @@ removed the header div ul style type as it was superfloruos.
 
 Condensed classes of benefits into "benefits for business".
 
-element "p" is set to 16px, which is the defult for font. As such, removing this from the stylesheet does not incur changes.
-In the stylesheet, remived the div and ul elements from the header. The only needed element was the li.
+Element "p" is set to 16px, which is the default for font. As such, removing this from the stylesheet does not incur changes.
+In the stylesheet, remived the div and ul elements from the header. The only needed element was the "li".
